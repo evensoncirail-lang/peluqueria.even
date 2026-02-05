@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../imagenes"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "peluqueria practica",
+		"liveServer.settings.port": 5501
+	}
+}
